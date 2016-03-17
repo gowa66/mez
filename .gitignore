@@ -9,3 +9,4 @@ web/*
 logs/*.log
 logs/email/*
 .idea/
+.mez/
